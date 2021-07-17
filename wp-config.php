@@ -26,10 +26,10 @@ define('DB_NAME', 'wdtest');
 define('DB_USER', 'root');
 
 /** MySQL数据库密码 */
-define('DB_PASSWORD', 'Shiyi123.');
+define('DB_PASSWORD', 'YYBrhr_2018');
 
 /** MySQL主机 */
-define('DB_HOST', 'localhost');
+define('DB_HOST', '39.109.104.133');
 
 /** 创建数据表时默认的文字编码 */
 define('DB_CHARSET', 'utf8mb4');

@@ -364,7 +364,6 @@ class wpdb {
 	 * @since 2.3.0
 	 * @var string
 	 */
-
 	public $usermeta;
 
 	/**

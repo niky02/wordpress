@@ -185,7 +185,7 @@ function hm_do_save_post($post_detail)
     $post_data = compact('post_author', 'post_date', 'post_date_gmt', 'post_content', 'post_title', 'post_category', 'post_status', 'post_excerpt', 'post_name','tags_input');
 	$post_data = add_magic_quotes($post_data);
     $postID = wp_insert_post($post_data);
-    echo 444444;$post_data;
+    
     if(!empty($post_meta_list)){
          $post_meta_array= array_unique(explode("|||",$post_meta_list));
          foreach($post_meta_array as $ppm)

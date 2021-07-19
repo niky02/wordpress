@@ -23,10 +23,10 @@
 define('DB_NAME', 'test');
 
 /** MySQL数据库用户名 */
-define('DB_USER', 'Shiyi123.');
+define('DB_USER', 'root');
 
 /** MySQL数据库密码 */
-define('DB_PASSWORD', 'root');
+define('DB_PASSWORD', 'Shiyi123.');
 
 /** MySQL主机 */
 define('DB_HOST', 'localhost');

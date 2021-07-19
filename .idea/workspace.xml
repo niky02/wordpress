@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa297194-ebf6-4402-ae99-672582b7c962" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wp-config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
       <workItem from="1626313815394" duration="11968000" />
       <workItem from="1626490958295" duration="1739000" />
       <workItem from="1626654399638" duration="333000" />
-      <workItem from="1626654754762" duration="11938000" />
+      <workItem from="1626654754762" duration="14832000" />
     </task>
     <servers />
   </component>
